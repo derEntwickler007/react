@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/derEntwickler007/react.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/derEntwickler007/react.git/static/js/main.f3091e62.chunk.js",
+    "main.js.map": "/derEntwickler007/react.git/static/js/main.f3091e62.chunk.js.map",
+    "runtime-main.js": "/derEntwickler007/react.git/static/js/runtime-main.212971e3.js",
+    "runtime-main.js.map": "/derEntwickler007/react.git/static/js/runtime-main.212971e3.js.map",
+    "static/js/2.113c2b6d.chunk.js": "/derEntwickler007/react.git/static/js/2.113c2b6d.chunk.js",
+    "static/js/2.113c2b6d.chunk.js.map": "/derEntwickler007/react.git/static/js/2.113c2b6d.chunk.js.map",
+    "static/js/3.e4269fc2.chunk.js": "/derEntwickler007/react.git/static/js/3.e4269fc2.chunk.js",
+    "static/js/3.e4269fc2.chunk.js.map": "/derEntwickler007/react.git/static/js/3.e4269fc2.chunk.js.map",
+    "index.html": "/derEntwickler007/react.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/derEntwickler007/react.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.113c2b6d.chunk.js.LICENSE.txt": "/derEntwickler007/react.git/static/js/2.113c2b6d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/derEntwickler007/react.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212971e3.js",
+    "static/js/2.113c2b6d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f3091e62.chunk.js"
+  ]
+}
